@@ -1,18 +1,20 @@
 # Exercício 2.1 — Mapa de atores da EJA
 
-**Nome completo:** a confirmar pela estudante.
+**Nome completo:** Rosy Emannuele Moura dos Santos Bomfim.
 
-Tema: matrícula na EJA da rede estadual de Alagoas e acompanhamento posterior da permanência. A estudante definiu o estado e a rede; a v2 adota a EJA Modular do ensino médio (18 anos ou mais) como recorte analítico, com atendimento pelo portal Matrícula Online e pelas unidades da Seduc-AL.
+Tema: matrícula na EJA Modular do ensino médio da rede estadual de Alagoas, pelo portal Matrícula Online e pelas unidades da Seduc-AL, com acompanhamento da permanência como processo subsequente. A estudante definiu estado e rede; o recorte de etapa foi proposto na v2 e mantido na v3.
 
 ## Índice dos entregáveis
 
-1. [A_meta_prompt.md](A_meta_prompt.md) — elaborado.
-2. [B_relatorio_assistente_v1.md](B_relatorio_assistente_v1.md) — pesquisa preliminar; recorte local pendente.
-3. [B_relatorio_auditoria_v1.md](B_relatorio_auditoria_v1.md) — resposta do Gemini fornecida pela estudante, preservada integralmente.
-4. [B_relatorio_assistente_v2.md](B_relatorio_assistente_v2.md) — revisão com tratamento dos achados F01–F08 e perguntas P01–P04.
-5. [B_relatorio_auditoria_v2.md](B_relatorio_auditoria_v2.md) — pendente de segunda execução no Gemini.
-6. [B_relatorio_assistente_v3.md](B_relatorio_assistente_v3.md) — pendente da segunda auditoria.
+1. [A_meta_prompt.md](A_meta_prompt.md) — elaborado; preservado como registro inicial.
+2. [B_relatorio_assistente_v1.md](B_relatorio_assistente_v1.md) — pesquisa nacional preliminar, anterior à delimitação estadual.
+3. [B_relatorio_auditoria_v1.md](B_relatorio_auditoria_v1.md) — primeira auditoria do Gemini, fornecida pela estudante e preservada integralmente.
+4. [B_relatorio_assistente_v2.md](B_relatorio_assistente_v2.md) — revisão dos achados F01–F08 e perguntas P01–P04.
+5. [B_relatorio_auditoria_v2.md](B_relatorio_auditoria_v2.md) — segunda auditoria do Gemini, executada pela estudante no Antigravity CLI e preservada integralmente.
+6. [B_relatorio_assistente_v3.md](B_relatorio_assistente_v3.md) — versão final da pesquisa, com mudanças vinculadas a FN01–FN05 e aos pontos abertos da segunda auditoria.
 7. [C_grill_transcript.md](C_grill_transcript.md) — pendente da entrevista real, após a Parte B.
 8. [C_mapa_atores.md](C_mapa_atores.md) — pendente das decisões da entrevista.
 
-Os links pendentes serão disponibilizados conforme cada etapa for executada. O trabalho ainda não está pronto para submissão. Assistente 1: Codex / OpenAI. Assistente 2: Gemini / Google; versão exata do modelo não registrada. A v1 e sua auditoria mantêm o conteúdo histórico anterior à delimitação estadual da v2.
+Assistente 1: Codex / OpenAI. Assistente 2: Gemini / Google. A versão do modelo da primeira auditoria não foi registrada; a interface do Antigravity CLI exibiu “auto · Gemini 3.8 Flash · high” durante a preparação da segunda. Essa informação registra o que foi mostrado à estudante, não uma verificação independente do modelo de cada chamada.
+
+Os links pendentes serão disponibilizados após a realização da Parte C. O trabalho ainda não está pronto para submissão. Não foram realizadas entrevistas com servidores nem observação de atendimento em escola.
