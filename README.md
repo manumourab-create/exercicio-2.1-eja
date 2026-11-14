@@ -15,4 +15,4 @@ Tema: jornada de matrícula e acompanhamento da permanência na Educação de Jo
 7. [C_grill_transcript.md](C_grill_transcript.md) — pendente da entrevista real, após a Parte B.
 8. [C_mapa_atores.md](C_mapa_atores.md) — pendente das decisões da entrevista.
 
-Os links pendentes serão disponibilizados conforme cada etapa for executada. O trabalho ainda não está pronto para submissão. Assistente 1: Codex / OpenAI; auditorias previstas com Claude Code / Anthropic, após autenticação.
+Os links pendentes serão disponibilizados conforme cada etapa for executada. O trabalho ainda não está pronto para submissão. Assistente 1: Codex / OpenAI. Assistente 2 escolhido: Gemini / Google; auditorias ainda pendentes de execução.
